@@ -66,7 +66,7 @@ jobs:
               echo "❌ FAILED on $f — stopping."
               exit 1
             fi
-            echo "✅ Done: $f"
+            echo "✅ Done Again: $f"
           done
 
           echo "================================="
